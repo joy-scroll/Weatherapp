@@ -17,7 +17,7 @@ class WeatherApp:
         self.window.configure(fg_color="#e6f3ff")  # Light blue background
         
         # OpenWeatherMap API key
-        self.api_key = "97890fadad986fd772e2e8f75dcb657e"
+        self.api_key = "api key"
         
         # Initialize UI components
         self.setup_ui()
